@@ -1,5 +1,5 @@
 # who-ebola-scraping
-how to scrape who ebola data
+how to scrape this who ebola data: http://apps.who.int/gho/data/view.ebola-sitrep.ebola-summary-latest?lang=en
 
 see notebooks how to do it and `requirements.txt` for required python packages
 
